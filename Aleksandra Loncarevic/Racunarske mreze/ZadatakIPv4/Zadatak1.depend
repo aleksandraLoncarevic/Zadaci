@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1568372093 source:c:\users\panonit\desktop\racunarske mreze - zadaci\zadatak1\zadatak1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
