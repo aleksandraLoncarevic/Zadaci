@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1541371196 source:c:\users\spasoje\desktop\threading1\example3\main.c
+	<unistd.h>
+	<windows.h>
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+

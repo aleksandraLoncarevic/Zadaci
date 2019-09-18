@@ -1,0 +1,11 @@
+10
+1234 stolica 10 3000
+456 sto 3 9000
+1234 stolica 5 3000
+456 sto 5 9000
+345 orman 2 15000
+234 polica 5 3000
+234 polica 4 3000
+1234 stolica 1 3000
+209 komoda 2 10000
+456 sto 1 9000

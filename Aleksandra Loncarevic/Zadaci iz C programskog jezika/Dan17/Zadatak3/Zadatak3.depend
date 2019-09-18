@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1567087755 source:c:\users\panonit\desktop\aleksandra loncarevic\dan16\zadatak3\zadatak3.c
+	<stdio.h>
+	<stdlib.h>
+
+1567101046 source:c:\users\aleksandra\desktop\panonit\dan17\zadatak3\zadatak3.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+
+1567151801 source:c:\users\panonit\downloads\dan17\dan17\zadatak3\zadatak3.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+
+1567151801 source:c:\users\panonit\desktop\aleksandra loncarevic\dan17\zadatak3\zadatak3.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+

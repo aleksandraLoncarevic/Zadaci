@@ -1,0 +1,12 @@
+Ime:Aleksandra
+Ocena:10
+
+Ime:Dajana
+Ocena:9
+
+Ime:Bojana
+Ocena:9
+
+Ime:Marko
+Ocena:7
+

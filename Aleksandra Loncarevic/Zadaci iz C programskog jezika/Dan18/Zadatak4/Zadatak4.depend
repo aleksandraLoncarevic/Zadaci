@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567451564 source:c:\users\aleksandra\desktop\panonit\dan18\zadatak4\zadatak4.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

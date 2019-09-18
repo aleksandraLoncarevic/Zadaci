@@ -1,0 +1,12 @@
+ovan 21 3 20 4
+bik  21 4 21 5
+blizanci 22 5 21 6
+rak 22 6 22 7
+lav 23 7 22 8
+devica 23 8 22 9
+vaga 23 9 23 10
+skorpija 24 10 22 11
+strelac 23 11 21 12
+jarac 22 12 20 1
+vodolija 21 1 19 2
+riba 20 2 20 3

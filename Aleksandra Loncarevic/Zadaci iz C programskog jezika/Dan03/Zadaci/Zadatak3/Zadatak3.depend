@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565176700 source:c:\users\panonit\desktop\aleksandra loncarevic\dan03\zadatak3\zadatak3.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

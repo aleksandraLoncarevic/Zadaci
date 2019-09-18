@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1566846910 source:c:\users\aleksandra\desktop\panonit\dan14\zadatak5\zadatak5.c
+	"complex.h"
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+
+1566846337 source:c:\users\aleksandra\desktop\panonit\dan14\zadatak5\complex.c
+	<stdio.h>
+	"complex.h"
+
+1566847051 c:\users\aleksandra\desktop\panonit\dan14\zadatak5\complex.h
+
+1566846337 c:\users\aleksandra\desktop\panonit\dan14\zadatak5\complex.c
+	<stdio.h>
+	"complex.h"
+

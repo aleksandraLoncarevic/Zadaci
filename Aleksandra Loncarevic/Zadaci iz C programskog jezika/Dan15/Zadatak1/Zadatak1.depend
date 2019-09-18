@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1566895271 source:c:\users\panonit\desktop\aleksandra loncarevic\dan15\zadatak1\zadatak1.c
+	<stdio.h>
+	<pthread.h>
+	<stdlib.h>
+
+1566934640 source:c:\users\aleksandra\desktop\panonit\dan15\zadatak1\zadatak1.c
+	<stdio.h>
+	<pthread.h>
+	<stdlib.h>
+
