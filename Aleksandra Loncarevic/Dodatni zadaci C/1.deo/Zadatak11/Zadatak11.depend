@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569096846 source:c:\users\panonit\desktop\aleksandra loncarevic\dodatni zadaci\1.deo\zadatak11\zadatak11.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
